@@ -1,115 +1,122 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm LORN David</h1>
 <h3 align="center">A passionate developer from Cambodia 🇰🇭</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Full+Stack+Learner;Building+cool+projects+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Modern+UI%2FUX+Lover;Building+Cool+and+Useful+Projects;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/lorndavid">
+    <img src="https://img.shields.io/github/followers/lorndavid?label=Followers&style=for-the-badge" alt="followers" />
+  </a>
+  <a href="mailto:lorndavid0505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://lorndavid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Full Stack Development**
-- 💻 I love building **modern websites and apps**
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+
+- 💻 I enjoy building **modern websites and applications**
+- 🌱 I am currently learning **full stack development**
 - 🎯 My goal is to become a **professional software developer**
-- 🇰🇭 I’m from **Cambodia**
-- ⚡ Fun fact: I enjoy creating **clean UI/UX and creative projects**
+- 🎨 I like **clean UI/UX**, modern layouts, and creative design
+- 📍 Based in **Phnom Penh, Cambodia**
+- ⚡ I love turning ideas into real projects
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,tailwind,nodejs,express,python,mongodb,mysql,firebase,git,github,vscode,figma,docker" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 🌟 What I’m Working On
 
-- Building real-world **full stack projects**
-- Learning better **system design and backend structure**
-- Improving my **UI/UX design skills**
-- Exploring **deployment and cloud hosting**
+- Full stack web projects
+- Better frontend UI/UX
+- Backend APIs and database systems
+- Real-world deployment and production apps
 
 ---
 
-## 🌟 Featured Projects
+## 📌 Featured Projects
 
-### 1. Project Name
-> Short description about your project.  
-> Example: A modern eCommerce website with payment integration and admin dashboard.
+### 🛒 eCommerce Website
+A modern online store with product browsing, cart, checkout, and payment integration.
 
-### 2. Project Name
-> Short description about your project.  
-> Example: A tourism website for Cambodia with maps and travel planning.
+### 🧾 POS System
+A clean point-of-sale system with dashboard, product management, and reporting.
 
-### 3. Project Name
-> Short description about your project.  
-> Example: A POS system with dashboard, reports, and inventory management.
+### 🧭 Cambodia Tourism Website
+A tourism platform for visitors to explore temples, maps, and travel locations in Cambodia.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lorndavid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorndavid&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+  <img height="170" src="https://streak-stats.demolab.com?user=lorndavid&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lorndavid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Graph
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorndavid&theme=tokyo-night&hide_border=true&radius=12" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/lorndavid">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="mailto:lorndavid0505@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://lorndavid.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 
 ---
 
-## 💬 Favorite Quote
+## 💬 Personal Quote
 
-> "Discipline is doing what needs to be done, even when you do not feel like doing it."
+<p align="center">
+  <i>"Start small, stay consistent, and build something amazing."</i>
+</p>
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile 🙌  
-  Don’t forget to check out my projects and give them a ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" />
 </p>
