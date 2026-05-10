@@ -1,21 +1,10 @@
-<h1 align="center">Hi 👋, I'm LORN David</h1>
+<h1 align="center">Hi, I'm LORN David</h1>
 <h3 align="center">A passionate developer from Cambodia 🇰🇭</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Modern+UI%2FUX+Lover;Building+Cool+and+Useful+Projects;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/lorndavid">
-    <img src="https://img.shields.io/github/followers/lorndavid?label=Followers&style=for-the-badge" alt="followers" />
-  </a>
-  <a href="mailto:lorndavid0505@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://lorndavid.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-  </a>
-</p>
 
 ---
 
@@ -23,12 +12,12 @@
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 💻 I enjoy building **modern websites and applications**
-- 🌱 I am currently learning **full stack development**
-- 🎯 My goal is to become a **professional software developer**
-- 🎨 I like **clean UI/UX**, modern layouts, and creative design
-- 📍 Based in **Phnom Penh, Cambodia**
-- ⚡ I love turning ideas into real projects
+-  I enjoy building **modern websites and applications**
+-  I am currently learning **full stack development**
+-  My goal is to become a **professional software developer**
+-  I like **clean UI/UX**, modern layouts, and creative design
+-  Based in **Phnom Penh, Cambodia**
+-  I love turning ideas into real projects
 
 <br clear="right"/>
 
@@ -37,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,tailwind,nodejs,express,python,mongodb,mysql,firebase,git,github,vscode,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,vite,tailwind,nodejs,express,python,mongodb,mysql,firebase,git,github,vscode,figma" />
 </p>
 
 ---
@@ -53,39 +42,18 @@
 
 ## 📌 Featured Projects
 
-### 🛒 eCommerce Website
+###  eCommerce Website
 A modern online store with product browsing, cart, checkout, and payment integration.
 
-### 🧾 POS System
+###  POS System
 A clean point-of-sale system with dashboard, product management, and reporting.
 
-### 🧭 Cambodia Tourism Website
+###  Cambodia Tourism Website
 A tourism platform for visitors to explore temples, maps, and travel locations in Cambodia.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lorndavid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorndavid&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=lorndavid&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lorndavid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
-</p>
-
----
-
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorndavid&theme=tokyo-night&hide_border=true&radius=12" />
