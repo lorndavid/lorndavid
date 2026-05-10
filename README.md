@@ -53,14 +53,6 @@ A tourism platform for visitors to explore temples, maps, and travel locations i
 
 ---
 
-##  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorndavid&theme=tokyo-night&hide_border=true&radius=12" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
