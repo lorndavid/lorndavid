@@ -35,11 +35,11 @@
   <tr>
     <td valign="top" width="50%">
       <b>Database</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,neon" alt="Database" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database" />
     </td>
     <td valign="top" width="50%">
       <b>Tool</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,oracle,vercel" alt="Tool" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" alt="Tool" />
     </td>
   </tr>
 </table>
