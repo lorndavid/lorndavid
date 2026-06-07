@@ -1,94 +1,74 @@
-<div align="center">
-  <h1>Hi, I'm David Lorn </h1>
-  <h3>Full-Stack Developer | UI/UX Advocate | Based in Cambodia 🇰🇭</h3>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Crafting+Modern+Web+Applications;Building+Scalable+Backend+Systems;Designing+Clean+UI%2FUX+Experiences" alt="Typing SVG" />
-  </p>
-</div>
-
----
-
-##  About Me
-
-I am a passionate software developer specializing in full-stack architecture and IT solutions. I focus on building responsive, high-performance applications with clean, modern aesthetics—favoring intuitive layouts, card-based designs, and glass-morphism. 
-
--  **Current Focus:** Architecting robust full-stack systems and integrating AI APIs.
--  **Tech Passions:** Clean UI/UX, secure payment integrations, and automated digital workflows.
--  **Location:** Phnom Penh, Cambodia 
--  **Goal:** Turning complex problems into elegant, real-world solutions.
-
----
-
-##  Tech Stack
-
-<details>
-  <summary><b> Frontend Development</b></summary>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite,html,css" />
-</details>
-
-<details>
-  <summary><b> Backend & API</b></summary>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,java,cs" />
-</details>
-
-<details>
-  <summary><b> Database & Cloud</b></summary>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,vercel" />
-</details>
-
-<details>
-  <summary><b> Tools & Design</b></summary>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</details>
-
----
-
-##  Featured Projects
-
-*  **Dynamic POS & eCommerce Ecosystem**  
-  A modern online store and point-of-sale system featuring clean admin dashboards, product management, and secure payment integrations.
-*  **AI-Powered Services & Bots**  
-  Custom bots integrated with Gemini AI for advanced text-to-speech services, utilizing memory buffering for seamless performance.
-*  **Automated Digital Systems**  
-  Developed various internal tools, including a Face Analysis & Student Tracking System integrated with Google Sheets/Drive, and a Digital Wedding Gift Recording platform.
-*  **Cambodia Tourism & Admin Platforms**  
-  A tourism platform for exploring local landmarks, supported by custom backend database solutions mapping Cambodian administrative divisions.
-
----
-
-##  GitHub Analytics
+<h1 align="center">Hi, I'm LORN David</h1>
+<h3 align="center">Full Stack Developer | UI/UX Advocate | Based in Cambodia</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorndavid&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=A6B4C8&icon_color=58A6FF" alt="David's GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Crafting+Modern+Web+Applications;Building+Scalable+Backend+Systems;Designing+Clean+UI%2FUX+Experiences" alt="Typing SVG" />
 </p>
 
----
+<br/>
 
-##  Let's Connect
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-<p align="center">
+### About Me
+
+- Architecting robust full-stack systems and integrating advanced APIs.
+- Passionate about modern layouts, glass-morphism, and intuitive card-based designs.
+- Currently focused on optimizing frontend UI/UX and building secure backend ecosystems.
+- Based in Phnom Penh, turning complex concepts into elegant, production-ready solutions.
+
+<br clear="right"/>
+<br/>
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite,html,css" alt="Frontend Frameworks and Languages" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,java,cs" alt="Backend Technologies" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,vercel" alt="Databases and Cloud Services" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools and Design" />
+</p>
+
+<br/>
+
+### Featured Projects
+
+**eCommerce Architecture**
+> A modern online store featuring product browsing algorithms, shopping cart architecture, checkout workflows, and secure digital payment integrations.
+
+**Dynamic POS System**
+> A comprehensive point-of-sale platform equipped with a clean administrative dashboard, real-time product management, and reporting mechanics.
+
+**Cambodia Tourism Platform**
+> A digital interface guiding visitors through regional temples and travel locations, supported by custom mapping of Cambodian administrative divisions.
+
+**AI Automation & Bots**
+> Custom scripts leveraging language models for automated text-to-speech services, intelligent user interactions, and memory buffering.
+
+<br/>
+
+### Connect With Me
+
+<p align="left">
   <a href="https://github.com/lorndavid">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:lorndavid0505@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://lorndavid.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </a>
 </p>
 
----
+<br/>
 
 <p align="center">
   <i>"Start small, stay consistent, and build something amazing."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" alt="Animated Footer" />
 </p>
