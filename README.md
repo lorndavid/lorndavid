@@ -25,21 +25,21 @@
   <tr>
     <td valign="top" width="50%">
       <b>Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite,html,css" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=ts,js,react,vue,tailwind,vite,html,css" alt="Frontend" />
     </td>
     <td valign="top" width="50%">
       <b>Backend & APIs</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,java,cs" alt="Backend & APIs" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Backend & APIs" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <b>Database</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,neon" alt="Database" />
     </td>
     <td valign="top" width="50%">
       <b>Tool</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,vercel" alt="Tool" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,oracle,vercel" alt="Tool" />
     </td>
   </tr>
 </table>
