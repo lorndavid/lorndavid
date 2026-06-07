@@ -21,15 +21,28 @@
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite,html,css" alt="Frontend Frameworks and Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,java,cs" alt="Backend Technologies" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,vercel" alt="Databases and Cloud Services" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools and Design" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite,html,css" alt="Frontend" />
+    </td>
+    <td valign="top" width="50%">
+      <b>Backend & APIs</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php,java,cs" alt="Backend & APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Database</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Database" />
+    </td>
+    <td valign="top" width="50%">
+      <b>Tool</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,vercel" alt="Tool" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
